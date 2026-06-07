@@ -30,8 +30,6 @@ Hello! My name is Mason <span style="color:red">Redd</span>, and I am a physics 
 
 I am also working with Dr. Zhao in the Earth, Marine, and Environmental Science department, where i am scrutinizing the upwelling mechanics (or the vertical motion) near the Galapagos Islands---a vast hot spot of biological life. Upwelling provides nutrient-rich foundations to the life near and on the island, but the main oceanic contributor of upwelling is scarcely known. I am investigating into the effects of island topography, seasonal changes, trade winds, and the equitorail under current to fully understand the main contributors of upwelling.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My academic and professional goals concern continuing to do research in particle and nuclear physics, where I hope to onbtain a Ph.D. I plan on focusing and studying Beyond the Standard Model physics and rare event pheneomena.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I like learning languages (currently Japanese), reading books (currently The Melancholy of Resistance), and going to the gym! 
